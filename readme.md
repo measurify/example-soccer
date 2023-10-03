@@ -1,5 +1,4 @@
-#Design and implementation of an embedded system for
-sports data collection
+#Design and implementation of an embedded system for sports data collection
 ##Overview
 This thesis project aims to develop a complete system for collecting and
 data classification in the sport of football, specifically for autonomous recognition
@@ -11,10 +10,10 @@ information constitutes the dataset needed to train a machine learning model.
 At the end of this training, the model is capable of autonomously recognizing the three movements
 above mentioned.
 
-[workflow](images/FrontConFreccia.png?raw=true "flusso di lavoro”) 
+![workflow](images/FrontConFreccia.png?raw=true "flusso di lavoro”) 
 ##Hardware
 The board used is a [Arduino Nano BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
-[arduino](images/ArduinoFoto.png?raw=true "Arduino Nano BLE Sense”)
+![arduino](images/ArduinoFoto.png?raw=true "Arduino Nano BLE Sense”)
 ##Software
 The necessary code è:
 1. Arduino script on [Arduino IDE](https://www.arduino.cc/en/software)
