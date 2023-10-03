@@ -11,7 +11,7 @@ information constitutes the dataset needed to train a machine learning model.
 At the end of this training, the model is capable of autonomously recognizing the three movements
 above mentioned.
 
-![workflow](images/frontConFreccia.png?raw=true "flusso di lavoro”) 
+![workflow](images/frontConFreccia.png)
 
 ## Hardware
 The board used is a [Arduino Nano BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
