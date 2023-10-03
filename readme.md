@@ -1,5 +1,6 @@
-#Design and implementation of an embedded system for sports data collection
-##Overview
+# Design and implementation of an embedded system for sports data collection
+
+## Overview
 This thesis project aims to develop a complete system for collecting and
 data classification in the sport of football, specifically for autonomous recognition
 of shooting, passing and stopping. An Arduino Nano BLE Sense mounted on a shin guard connects via
@@ -11,15 +12,18 @@ At the end of this training, the model is capable of autonomously recognizing th
 above mentioned.
 
 ![workflow](images/FrontConFreccia.png?raw=true "flusso di lavoro”) 
-##Hardware
+
+## Hardware
 The board used is a [Arduino Nano BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
 ![arduino](images/ArduinoFoto.png?raw=true "Arduino Nano BLE Sense”)
-##Software
+
+## Software
 The necessary code è:
 1. Arduino script on [Arduino IDE](https://www.arduino.cc/en/software)
 2. Flutter code on [VSCode](https://code.visualstudio.com/)
 3. Machine learning model developed by the laboratory [Elios Lab](https://elios.diten.unige.it/)
-##Quick start
+
+## Quick start
 Connect the Arduino via cable connection to the computer, selecting from the Arduino IDE menu
 *Serial Port* your Arduino and the cable to which it is connected (it should appear among the possible choices as COM-).
 Search and install (if they are not already) in the *Manage Libraries* section the libraries included in the first part of the script.
