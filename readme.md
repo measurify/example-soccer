@@ -16,7 +16,7 @@ above mentioned.
 ## Hardware
 The board used is a [Arduino Nano BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
 
-![arduino](images/ArduinoFoto.png?raw=true "Arduino Nano BLE Sense”)
+![arduino](images/ArduinoFoto.png)
 
 ## Software
 The necessary code è:
